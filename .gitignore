@@ -1,0 +1,13 @@
+# Slides are distributed via Moodle, not this repo
+*.pdf
+*.pptx
+*.ppt
+*.odp
+*.key
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

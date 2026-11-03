@@ -28,6 +28,7 @@ Course materials, announcements and the discussion board are on [Moodle](https:/
 | `day1_examples.py` / `day1_examples_answers.py` | Day 1 warm-up exercises and answers |
 | `04_Data_Types_Operators_Variables.ipynb` | Data types, operators and variables |
 | `05_Control_Structures_Conditionals.ipynb` | Control structures and conditionals |
+| `06_Control_Structures_Loops.ipynb` | Loops: `while`, `for`, `range`, `break` and `continue` |
 
 ## Acknowledgements
 

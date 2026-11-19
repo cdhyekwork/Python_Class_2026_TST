@@ -29,6 +29,16 @@ Course materials, announcements and the discussion board are on [Moodle](https:/
 | `04_Data_Types_Operators_Variables.ipynb` | Data types, operators and variables |
 | `05_Control_Structures_Conditionals.ipynb` | Control structures and conditionals |
 | `06_Control_Structures_Loops.ipynb` | Loops: `while`, `for`, `range`, `break` and `continue` |
+| `Mock_Midterm_Review.ipynb` | Mock midterm practice questions |
+| `Presentations/` | Lecture slides 01–07 (temporary, see below) |
+
+## Slides (temporary)
+
+The slides for lectures 01–07 are in the `Presentations/` folder **for a limited time only**. They will be removed from this repository after Tuesday, November 24. After that, the slides will be available only on Moodle.
+
+## Mock midterm review
+
+We will go through the mock midterm together **in person on Tuesday, November 24**. Try the questions in `Mock_Midterm_Review.ipynb` before class so you can bring your questions.
 
 ## Acknowledgements
 
